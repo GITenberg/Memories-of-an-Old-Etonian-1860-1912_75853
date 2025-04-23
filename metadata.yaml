@@ -1,0 +1,31 @@
+_repo: Memories-of-an-Old-Etonian-1860-1912_75853
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moore, G. Greville (George Greville)
+    alias: Moore, George Greville
+    gutenberg_agent_id: '58185'
+    url: http://www.gutenberg.org/2009/agents/58185
+description: ''
+gutenberg_issued: '2025-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75853'
+  lccn: '20012212'
+language: en
+pgterms:marc904: https://archive.org/details/memoriesofoldeto00moor
+pgterms:marc905: 20220321023445moore
+pgterms:marc906: '1919'
+pgterms:marc907: GB
+production_note: MWS and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aLondon :$bHutchinson & Co., $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- GITenberg
+title: Memories of an Old Etonian, 1860-1912
+url: http://www.gutenberg.org/ebooks/75853
