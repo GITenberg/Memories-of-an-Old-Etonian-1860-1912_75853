@@ -1,5 +1,8 @@
 _repo: Memories-of-an-Old-Etonian-1860-1912_75853
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75853-h/images/cover.jpg
 creator:
   author:
     agent_name: Moore, G. Greville (George Greville)
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '58185'
     url: http://www.gutenberg.org/2009/agents/58185
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75853#Memories-of-an-Old-Etonian-1860-1912
 gutenberg_issued: '2025-04-13'
 gutenberg_type: Text
 identifiers:
